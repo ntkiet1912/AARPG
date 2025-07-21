@@ -1,0 +1,14 @@
+# Godot-specific
+.import/
+.export/
+.godot/
+*.godot-export
+*.mono/
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Android / iOS (nếu dùng xuất mobile)
+android/build/
+ios/build/
